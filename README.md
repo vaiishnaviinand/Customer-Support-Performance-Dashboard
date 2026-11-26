@@ -42,7 +42,7 @@ This is an independent portfolio project developed for learning and demonstratin
 ## Dashboard Preview
 
 ### Overview
-![Dashboard Overview](Power%20BI/Dashboard.png)
+![Customer Support Dashboard](Power%20BI/Dashboard.png)
 
 ### Ticket Analysis
-![Ticket Analysis](Power%20BI/Ticket%20Analysis.png) 
+![Ticket Analysis](Power%20BI/Ticket%20Analysis.png)
