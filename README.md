@@ -36,14 +36,6 @@ The project uses Microsoft Excel for data cleaning, PostgreSQL and SQL for data 
 ## Dashboard
 The Power BI dashboard provides an interactive view of ticket performance, customer satisfaction, ticket trends, priority patterns, products, and support channels.
 
-## Dashboard
-
-### Overview Dashboard
-![Customer Support Dashboard](Power%20BI/Dashboard.png)
-
-### Ticket Analysis
-![Ticket Analysis](Power%20BI/Ticket%20Analysis.png)
-
 ## Disclaimer
 This is an independent portfolio project developed for learning and demonstrating Business Analysis, data analysis, SQL, Excel, and Power BI skills.
 
