@@ -38,3 +38,11 @@ The Power BI dashboard provides an interactive view of ticket performance, custo
 
 ## Disclaimer
 This is an independent portfolio project developed for learning and demonstrating Business Analysis, data analysis, SQL, Excel, and Power BI skills.
+
+## Dashboard Preview
+
+### Overview
+![Dashboard Overview](Power%20BI/Dashboard.png)
+
+### Ticket Analysis
+![Ticket Analysis](Power%20BI/Ticket%20Analysis.png) 
