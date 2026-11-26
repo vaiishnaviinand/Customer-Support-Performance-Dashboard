@@ -44,5 +44,22 @@ The Power BI dashboard provides an interactive view of ticket performance, custo
 ### Ticket Analysis
 ![Ticket Analysis](Power%20BI/Ticket%20Analysis.png)
 
+
+## SQL Analysis
+
+SQL was used to analyse customer support ticket data and identify patterns in ticket status, priority, satisfaction, products, support channels, and resolution performance.
+
+The analysis included:
+
+- Ticket volume and status distribution
+- Ticket trends by priority and support channel
+- Closure rate analysis across products and priorities
+- Customer satisfaction analysis
+- First response time analysis
+- Identification of unusual timestamp records as data quality issues
+
+The SQL queries used for this analysis are available in the `SQL` folder of this repository.
+
+
 ## Disclaimer
 This is an independent portfolio project developed for learning and demonstrating Business Analysis, data analysis, SQL, Excel, and Power BI skills.
